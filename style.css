@@ -232,7 +232,7 @@ body {
     background: #ff6f91;
  }
 
- /* media queries */
+ /* //media queries// */
     @media (max-width: 600px){
         .container{
             padding: 0 10px;
