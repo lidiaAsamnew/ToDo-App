@@ -72,7 +72,7 @@ body {
     width: 50%;
     height: 100%;
     border-radius: 20px;
-    background: #ff6f91;
+    background: #b130a6;
     transition: width 0.3s ease;
 }
 #numbers{
@@ -81,7 +81,7 @@ body {
     justify-content: center;
     width: 80px;
     height: 80px;
-    background: #ff6f91;
+    background: #b130a6;
     border: 2px solid rgba(255, 255, 255, 0.3);
     font-weight: bold;
     border-radius: 50%;
@@ -124,7 +124,7 @@ body {
 
 }
 .input-area button:hover {
-    background: #ff6f91;
+    background: #b130a6;
     transform: scale(1.1);
 }
 .todos-container{
@@ -167,7 +167,7 @@ body {
 }
 
 #task-list li .checkbox:checked {
-    background: #ff6f91;
+    background: #b130a6;
     transform: scale(1.1);
 }
 
@@ -180,7 +180,7 @@ body {
     transition: color 0.2s ease;
 }
 #task-list li .checkbox:checked {
-    background: #ff6f91;
+    background: #b130a6;
     transform: scale(1.1);
 }
 #task-list li .checkbox:checked::before{
@@ -229,7 +229,7 @@ body {
  }
 
  .task-btns .delete-btn{
-    background: #ff6f91;
+    background: #b130a6;
  }
 
  /* //media queries// */
